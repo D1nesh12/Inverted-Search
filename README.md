@@ -1,6 +1,6 @@
 # Inverted-Search
 
-The Inverted Search project is a data structure project implemented using C programming language. Inverted search, also known as reverse index or inverted index, is a data structure commonly used in information retrieval systems to quickly locate documents or data containing specific keywords or terms.
+The Inverted Search project is a data structure project implemented using C programming language. Inverted search, also known as reverse index or inverted index, is a data structure commonly used in information retrieval systems to quickly locate documents or data containing specific keywords or terms, The purpose of storing an index is to optimize speed and performance in finding relevant documents for a search query. Without an index, the search engine would scan every document in the corpus, which would require considerable time and computing power.
 
 ## Key Features:
 
